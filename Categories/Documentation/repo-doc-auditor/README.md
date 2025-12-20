@@ -122,6 +122,7 @@ All generated content is internally consistent, cross-linked, and clearly struct
 
 ## Example `TempDoc-ForUserReview/` Structure
 
+```
 TempDoc-ForUserReview/
 ├── README.md
 ├── CHANGELOG.md
@@ -146,6 +147,7 @@ TempDoc-ForUserReview/
 │   │   └── operations.md
 │   └── troubleshooting/
 │       └── common-issues.md
+```
 
 This folder is review-only and is never merged automatically.
 
