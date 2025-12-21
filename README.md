@@ -16,7 +16,7 @@ A collection of custom made SKILLS for AI use.
 - code-refactor-master
   - Refactor code for better organization, cleaner architecture, and improved maintainability. Use for reorganizing file structures, splitting large components, updating imports after moves, and enforcing consistent patterns across the codebase.
  
-----
+---
 
 # Documenation
 
@@ -26,6 +26,13 @@ A collection of custom made SKILLS for AI use.
   - repo-doc-auditor
     - Perform a repo-wide, evidence-based audit of documentation against the current codebase and recent changes. Produces a proposed, fully rewritten documentation set in TempDoc-
       ForUserReview and asks for approval before any changes are applied to the existing docs.
+
+---
+
+# Planning - Strategy
+
+- plan-reviewer
+  - Review a development plan before implementation to identify risks, missing considerations, and better alternatives. Use for plans involving auth changes, migrations, integrations, or other high-impact work.
 
 ---
 
