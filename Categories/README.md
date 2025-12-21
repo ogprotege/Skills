@@ -3,6 +3,7 @@
 ---
 
 # Documenation
+
   - documentation-architect
     - description: Create, update, and maintain clear, accurate, and well-organized technical documentation for complex codebases. This agent focuses on understanding the current state of         the code and existing documentation before proposing or making changes, ensuring documentation remains up to date, discoverable, and trustworthy for developers.
    
